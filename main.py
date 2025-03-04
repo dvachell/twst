@@ -12,6 +12,9 @@ def binarne(x, y):
             p = sr - 1
         else:
             l = sr + 1
+
+
+
     print(f'{y} not found in array')
 
 binarne(tab, 9)
